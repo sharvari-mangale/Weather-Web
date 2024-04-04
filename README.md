@@ -1,6 +1,6 @@
 # Weather-Website
 
-Presenting my latest creation: a dynamic Weather Web Application crafted with HTML, CSS, and JavaScript. Experience the power to seamlessly search for weather updates of any location, delivering accurate forecasts right at your fingertips. Explore the world's weather like never before!
+Presenting a dynamic Weather Web Application crafted with HTML, CSS, and JavaScript. Experience the power to seamlessly search for weather updates of any location, delivering accurate forecasts right at your fingertips. Explore the world's weather like never before!
 
 ![Screenshot (65)](https://github.com/sharvari-mangale/Weather-Website/assets/88763391/1d147768-c48e-4dc8-9869-37c7dfd0a2a8)
 
